@@ -1,0 +1,11 @@
+:root {
+  --alert-bg-color: #ff0000;
+  --alert-text-color: #ffffff;
+}
+
+.alert {
+  background-color: var(--alert-bg-color);
+  color: var(--alert-text-color);
+  padding: 10px;
+  border-radius: 5px;
+}
